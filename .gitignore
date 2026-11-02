@@ -4,7 +4,7 @@ dist-standalone/
 .env
 *.tsbuildinfo
 coverage/
-.vscode/
+
 *.log
 
 # npm pack output / pre-built tarballs (publish via release artifacts, not git)
